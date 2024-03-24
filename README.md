@@ -1,6 +1,6 @@
 # E commerce Website
 
-This is a HTML/CSS project for a food restaurant website. It includes a homepage layout with a header, navigation menu, hero section, featured dishes section, and footer.
+This is a HTML/CSS project for a food restaurant website. It includes a homepage layout with a header, navigation menu, hero section and in click Me page navigation menu, hero section.
 
 ## Landing Page
 
